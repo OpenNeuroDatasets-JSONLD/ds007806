@@ -8,7 +8,7 @@ data:
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
-        contributorType: Researcher
+        contributorType: ProjectLeader
         order: 1
       - name: Duanghathai Pasanta
         givenName: ''
@@ -43,14 +43,14 @@ data:
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
-        contributorType: Researcher
+        contributorType: Supervisor
         order: 6
       - name: Nicolaas A. Puts
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
-        contributorType: Researcher
+        contributorType: Supervisor
         order: 7
     creators:
       - name: Talitha C. Ford
